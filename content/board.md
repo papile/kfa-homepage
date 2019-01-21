@@ -1,7 +1,6 @@
 ---
 title: "Meet The KFA-NY Board of Directors"
 date: 2019-01-21T17:53:33-05:00
-draft: true
 ---
 #### Here are some of the past and present members who have helped shape the club and help keep it so successful.
 
