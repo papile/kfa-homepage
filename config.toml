@@ -5,11 +5,16 @@ canonifyurls = true
 relativeURLs = true
 
 [[menu.sidebar]]
-name = "Home"
-url = "/"
+name = "About"
+url = "/about"
 weight = 1
 
 [[menu.sidebar]]
-name = "Articles"
-url = "/articles"
+name = "Forum"
+url = "http://kfa-ny.org/forum"
+weight = 2
+
+[[menu.sidebar]]
+name = "Join Us"
+url = "/join"
 weight = 2

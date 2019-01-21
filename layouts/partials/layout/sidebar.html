@@ -1,4 +1,4 @@
-  <nav class="shadow rounded-lg border-4 flex items-center justify-between flex-wrap bg-blue-darker pl-4 py-4">
+  <nav class="flex items-center justify-between flex-wrap bg-blue-darker pl-4 py-4">
     <div class="flex items-center flex-grow text-white mr-6">
       <img src="/kfa-logo.png">
       <span class="pl-4 font-bold lg:text-4xl md:text-3xl sm:text-2xl xs:text-lg text-grey-lighter tracking-tight">Kayak
@@ -6,15 +6,9 @@
     </div>
     <div class="w-full block flex-grow pt-4">
       <div class="items-center lg:text-lg md:text-base sm:text-sm sm:flex-grow">
-        <a href="/about" class="mt-4 no-underline lg:mt-0 text-grey-lighter hover:text-white mr-4">
-          About
-        </a>
-        <a href="http://kfa-ny.org/forum" class="mt-4 no-underline lg:mt-0 text-grey-lighter hover:text-white mr-4">
-          Forum
-        </a>
-        <a href="#responsive-header" class="mt-4 no-underline lg:mt-0 text-grey-lighter hover:text-white">
-          Blog
-        </a>
+        {{ range .Site.Menus.sidebar }}
+          <a href="{{ .URL }}" class="mt-4 no-underline lg:mt-0 text-grey-lighter hover:text-white mr-4">{{ .Name }}</a>
+        {{ end }}
       </div>
     </div>
   </nav>

@@ -193,6 +193,18 @@ module.exports = {
   */
 
   fonts: {
+    'default': [
+      'muli',
+      'avenir',
+      'helvetica neue',
+      'helvetica', 
+      'ubuntu',
+      'roboto',
+      'noto',
+      'segoe ui',
+      'arial', 
+      'sans-serif'
+    ],
     'sans': [
       'system-ui',
       'BlinkMacSystemFont',

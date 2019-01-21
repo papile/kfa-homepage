@@ -8,7 +8,7 @@
   }
 
   & p {
-    @apply leading-normal mb-6;
+    @apply leading-normal m-6;
   }
 
   & ul {
@@ -19,7 +19,7 @@
     @apply border-l-2 border-blue-dark bg-grey-lighter p-3;
 
     & p {
-      @apply mb-0;
+      @apply mb-2;
     }
   }
 }

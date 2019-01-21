@@ -18,7 +18,7 @@
        <link rel="stylesheet" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}">
     {{ end }}
   </head>
-  <body class="bg-grey-lightest font-sans leading-normal">
+  <body class="bg-grey-lightest font-default leading-normal">
       <div class="hidden md:block w-full  px-2">
         {{ partial "layout/sidebar.html" . }}
       </div>
@@ -27,7 +27,7 @@
       </div>
       {{ $url := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
 {{ $.Scratch.Add "path" .Site.BaseURL }}
-<nav class="bg-grey-lighter p-1 m-2 rounded font-sans ">
+<nav class="bg-grey-lighter p-1 m-2 rounded font-default ">
 <ol class="list-reset flex text-grey-dark">
   <li><a href="/" class="no-underline text-blue font-bold">Home</a></li>
   {{ range $index, $element := split $url "/" }}
@@ -41,7 +41,7 @@
 </ol>
 </nav>
       <!-- Main content -->
-      <main class="flex justify-left m-2 md:ml-8 bg-grey-lightest">
+      <main class="flex justify-left font-default m-2 md:ml-8 bg-grey-lightest">
         <div class="md:w-3/4">
           {{ block "main" . }}{{ end }}
         </div>
