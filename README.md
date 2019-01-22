@@ -1,11 +1,5 @@
-# Hugo + Tailwind CSS Boilerplate
-
-Boilerplate to make it easy to start new sites with [Hugo](https://gohugo.io/) 
-and [Tailwind CSS](https://tailwindcss.com/) via
-[PostCSS](https://postcss.org/). [Purgecss](https://www.purgecss.com/) is used
-to remove unused CSS in production builds.
-
 ## Installation
+Install node.js [https://nodejs.org/en/](https://nodejs.org/en/)
 
 Install the NPM dependencies and build the javascript once in development mode.
 
