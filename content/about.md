@@ -2,6 +2,8 @@
 title: About Us
 description: History and description of the Kayak Fishing Association of New York
 ---
+# About Us
+
 ![KFA members fishing](/images/front_page/montage.jpg)
 
 *The Kayak Fishing Association of New York* (**KFA**) is a 503\(c\) non-profit membership organization founded in 2007 with the following core principles:
