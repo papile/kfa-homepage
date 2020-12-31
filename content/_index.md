@@ -2,19 +2,14 @@
 title: The Kayak Fishing Association of New York
 description: History and description of the Kayak Fishing Association of New York
 ---
-![KFA members fishing](/images/front_page/montage.jpg)
+### Welcome to the KFA of New York
 
-# About Us
-*The Kayak Fishing Association of New York* (**KFA**) is a 503\(c\) non-profit membership organization founded in 2007 with the following core principles:
+Thanks for stopping by and taking a look. Our forum is free to join but the deeper content is in the members only section and if you’d like to view that you can get an application here: (link to form.) Membership is limited so if you want to get into the sport and learn a lot more about it and have fun doing it, don’t wait and risk getting shut out.
 
-- Fostering and promoting the sport of kayak fishing
-- Ensuring safety with proper gear and knowledge of conditions
-- Working for conservation of our environment and marine life
+We are a Long Island based kayak fishing club but you may find our members (mostly fishing), all over the country for recreation and in tournaments. Primarily we fish in the waters surrounding Long Island, New York City, and sometimes in nearby lakes and reservoirs. Our mission is to promote this growing and exciting spot of kayak fishing, as well conservation of our waters and the fish we love to catch.
 
-We are a group of kayak fishermen from the NY metro area. Our membership is very diverse from experts to beginners and young to older sharing their knowledge freely in a non competitive friendly organization.
+The KFA holds 5 indoor meetings between October and March which are open to the general public. At many of the meetings we try to bring in local experts on a diverse range of topics from fresh water strategies, to fish finder operations to conservation and more. Over the fishing season we also have several members-only meetings at outdoor locations which provide excellent fishing opportunities for members that attend after the meeting ends. 
 
-The KFA-NY holds 12 meetings annually. Six are held indoors during the winter months and six are held at various locations during the summer. Our winter/ indoor meetings are free and open to the public; at these meetings we share our knowledge to become better kayak fisherman, have guest presenters, and offer hands-on activities. Our six summer meetings are for members only; at our summer meetings a brief meeting is held to discuss club activities; after this meeting, members may choose to fish surrounding waters.
+Throughout the pages of our forum we strive to collect and share our vast knowledge and experience of the sport and encourage and facilitate members fishing together. Not only is it safer but its way more fun too!
 
-Through our website forum, the KFA-NY has created an information network for all kayak fishermen, from beginner to advanced, exchange ideas, techniques and skills of the sport. We are committed to passing on these skills and traditions of the sport to the next generation of kayak fishers. This forum is open to the public once you register as a user. There is also a member’s only area which contains specific information related to kayak fishing as well as club member discounts.
-
-Membership Any person eighteen (18) years of age or over who subscribes to and supports the objectives and purposes of the KFA is eligible as a candidate for membership in the KFA. Any person sixteen (16) or seventeen (17) years of age who subscribes to and supports the objectives and purposes of the KFA is eligible as a candidate for membership in the KFA with consent of all parents/guardians. If this is the kind of club you might like to be a part of, please click on the Join tab on the top of our webpage for information. Join us and explore the amazing sport of kayak fishing.
+No matter what your experience level is our club has something for everyone from beginners looking to get their first kayak, cold water safety, marine electronics, and techniques . We are the best resource for kayak fishing bar none.

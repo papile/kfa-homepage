@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+p {
+  @apply mb-2;
+}
+
 .article {
   & h1, & h2, & h3, & h4, & h5, & h6 {
     @apply text-grey-darkest mb-2;
@@ -22,4 +26,4 @@
       @apply mb-2;
     }
   }
-}
+
